@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luke DuCharme</title>
+    <title></title>
     <link>https://0x1uke.github.io/</link>
-    <description>Recent content on Luke DuCharme</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Oct 2022 20:45:57 -0400</lastBuildDate><atom:link href="https://0x1uke.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Wed, 12 Oct 2022 20:45:57 -0400</pubDate>
       
       <guid>https://0x1uke.github.io/post/hello-world/</guid>
-      <description>My First Post Hello, world!</description>
+      <description>Hello, world!</description>
     </item>
     
   </channel>
