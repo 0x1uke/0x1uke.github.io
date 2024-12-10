@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 0x1uke
+  name: Luke
   email: luke@0x1uke.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -156,7 +156,7 @@ baseurl: ""
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
-  syntax_highlighter: rouge
+  syntax_highlighter: none
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
     # default_lang: console
