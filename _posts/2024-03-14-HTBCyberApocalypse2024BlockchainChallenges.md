@@ -203,14 +203,6 @@ With this seed phrase, I installed Electrum on my workstation, connected to the 
 electrum --regtest --oneserver -s 127.0.0.1:50002:telectrum --regtest --oneserver -s 127.0.0.1:50002:t
 ```
 
-![Screenshot 2024-03-14 at 11.15.36.png](http://localhost:3001/content/images/2024/03/Screenshot-2024-03-14-at-11.15.36.png)
-
-![Screenshot 2024-03-14 at 11.16.06.png](http://localhost:3001/content/images/2024/03/Screenshot-2024-03-14-at-11.16.06.png)
-
-![Screenshot 2024-03-14 at 11.17.08.png](http://localhost:3001/content/images/2024/03/Screenshot-2024-03-14-at-11.17.08.png)
-
-![Screenshot 2024-03-14 at 11.17.38.png](http://localhost:3001/content/images/2024/03/Screenshot-2024-03-14-at-11.17.38.png)
-
 The Bitcoins were returned to the provided wallet, the attacker wallet balance was zero, and I could now acquire the flag.
 
 ```bash
