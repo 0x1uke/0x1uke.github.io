@@ -1,6 +1,6 @@
 ---
 title: HTB Cyber Apocalypse 2025 Blockchain Challenges
-date: 2024-03-31 00:00:00 +0000
+date: 2025-03-26 00:00:00 +0000
 categories: [CTF, Blockchain]
 tags: [htb, foundry, docker, smartcontracts, solidity]
 ---
