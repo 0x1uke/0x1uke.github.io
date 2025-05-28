@@ -11,11 +11,11 @@ tags: [htb, foundry, docker, smartcontracts, solidity]
 
 ## Spectral [Easy]
 
+`TODO`
+
 ### Description
 
-```
-A new nuclear power plant called "VCNK" has been built in Volnaya, and now the dominance of the energy lobby is now stronger than ever. You have been assigned to Operation "Blockout" and your mission is to find a way to disrupt the power plant to slow them down. See you in the dark!
-```
+`A new nuclear power plant called "VCNK" has been built in Volnaya, and now the dominance of the energy lobby is now stronger than ever. You have been assigned to Operation "Blockout" and your mission is to find a way to disrupt the power plant to slow them down. See you in the dark!`
 
 ### Setup.sol
 
@@ -272,3 +272,5 @@ HTB{Pectra_UpGr4d3_c4uSed_4_sp3cTraL_bL@cK0Ut_1n_V0LnaYa}
 ```
 
 ## Blockout [Medium]
+
+`TODO`
