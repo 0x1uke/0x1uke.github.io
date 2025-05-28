@@ -3,7 +3,7 @@
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://dev-m2aa4h5uxfmrj0uh.us.auth0.com/"
+      "href": "https://login.0x1uke.com/"
     }
   ]
 }
