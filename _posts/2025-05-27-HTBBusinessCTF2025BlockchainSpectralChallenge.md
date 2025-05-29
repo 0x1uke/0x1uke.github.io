@@ -1,5 +1,5 @@
 ---
-title: HTB Business CTF 2025 Blockchain Spectral Challenges
+title: HTB Business CTF 2025 Blockchain Spectral Challenge
 date: 2025-05-28 00:00:00 +0000
 categories: [CTF, Blockchain]
 tags: [htb, foundry, docker, smartcontracts, solidity]
