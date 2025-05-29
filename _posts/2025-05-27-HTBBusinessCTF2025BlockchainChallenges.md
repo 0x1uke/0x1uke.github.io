@@ -1,5 +1,5 @@
 ---
-title: HTB Business CTF 2025 Blockchain Challenge
+title: HTB Business CTF 2025 Blockchain Spectral Challenges
 date: 2025-05-28 00:00:00 +0000
 categories: [CTF, Blockchain]
 tags: [htb, foundry, docker, smartcontracts, solidity]
@@ -213,7 +213,7 @@ contract VCNK {
 
 ### Solution 
 
-Based this analysis information, the attack path is:
+Based on this analysis, the attack path is:
 
 Deploy a contract with a malicious implementation of `deliverEnergy()` that conducts a reentrancy attack by recursively calling `requestPowerDelivery()` to drain `VCNK.sol` `controlUnit`'s `MAX_CAPACITY` to or below 10 ETH, triggering `failSafeMonitor()` and updating `VCNK.sol`'s `controlUnit` status to `CU_STATUS_EMERGENCY`.
 
