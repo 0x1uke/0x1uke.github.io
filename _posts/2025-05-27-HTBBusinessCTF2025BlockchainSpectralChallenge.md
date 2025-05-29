@@ -303,7 +303,7 @@ $ export TARGET=0xeb328838820E0D4abCBEfdf0eb403375ED0Fb1Cd
 $ export RPC=http://94.237.58.121:34807
 ```
 
-Using Paradigm's [Foundry](https://github.com/foundry-rs) tool suite's `forge` tool, `Exploit.sol` is compiled and deployed to the challenge's blockchain:
+Using Paradigm's [Foundry](https://github.com/foundry-rs) suite's `forge` tool, `Exploit.sol` is compiled and deployed to the challenge's blockchain:
 
 ```bash
 # In the unzipped challenge directory, place Exploit.sol in ./src directory.
